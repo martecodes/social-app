@@ -23,4 +23,3 @@ mongoose.connect(CONNECTION_URL, {useNewUrlParser: true, useUnifiedTopology: tru
 .catch((err) => console.log(err))
 
 
-app.get
